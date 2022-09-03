@@ -195,7 +195,7 @@ footer{
     flex-basis:auto;
 }
 .home-header {
-    background-image: url(img/home.jpg);
+    background-image: url(./img/home.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
